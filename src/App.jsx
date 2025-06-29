@@ -73,7 +73,7 @@ function App() {
           </div>
         </div>
         <br></br>
-        <p className="bottomLine"> • Learn •  &nbsp;&nbsp;&nbsp;&nbsp;  • Decide • &nbsp;&nbsp;&nbsp;&nbsp; • Succeed •</p>
+        <p className="bottomLine"> • Learn   &nbsp;&nbsp;  Decide  &nbsp;&nbsp; Succeed •</p>
       </div>
 
 
