@@ -7,8 +7,8 @@ body, html, #root {
 }
 
 .containers {
-  min-height: 100vh;
-  background-color: #0d1117;
+  min-height: 101vh;
+  background-color: #0d1117;  
   background-image: url('https://res.cloudinary.com/df6hqee2r/image/upload/photo-1603943761979-879c839ac8e6_kreyt0.jpg');
   background-position: center;
   background-size: cover;
